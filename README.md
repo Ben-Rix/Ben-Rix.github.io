@@ -17,6 +17,8 @@ FishPi: a bioinformatic prediction tool to link piRNA and transposable elements 
 ### Codecademy Data Scientist: Analytics
 - Obtained extensive python and SQL language skills
 - Enhanced understanding and abilities as a data scientist
+
+
 ### PhD Biomolecular Science
 - Generation of large datasets obtained from fluorecent image analysis
 - Extensive data analysis with statistical testing and visualisation
