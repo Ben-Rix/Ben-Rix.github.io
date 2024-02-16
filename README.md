@@ -1,7 +1,9 @@
-# Healtcare Scientist
+# Healtcare Scientist (NHS)
+
 
 ### Education
-PhD
+## PhD Biomolecular Science
+-data analysis etc
 
 ### Projects
 FishPi
