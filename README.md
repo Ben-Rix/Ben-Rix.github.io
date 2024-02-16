@@ -1,5 +1,3 @@
-# Ben-Rix.github.io
-
 # Healtcare Scientist
 
 ### Education
