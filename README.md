@@ -1,8 +1,8 @@
 # Ben-Rix.github.io
 
-#Healtcare Scientist
+# Healtcare Scientist
 
-###Education
+### Education
 PhD
 
 ### Projects
