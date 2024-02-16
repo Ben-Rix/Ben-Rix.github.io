@@ -5,15 +5,20 @@ A seasoned professional with a comprehensive background in data analysis, I brin
 ### FishPi
 FishPi: a bioinformatic prediction tool to link piRNA and transposable elements in zebrafish (Currently in Review)
 - Collaborated with the University of East Anglia to produce a python based tool published (in review) in methods in ecology and evolution
-- 
+- The user enter a search term (DNA sequence) and the code returns best matchs from a reference database and returns a list of possible matches whilst plotting these into categories as a visual representation.
+### Codecademy Projects
+-include named projects
 
 ## Education
 ### Codecademy Data Scientist: Analytics
-- 
+- Obtained extensive python and SQL language skills
+- Enhanced understanding and abilities as a data scientist
 ### PhD Biomolecular Science
-- data analysis etc
+- Generation of large datasets obtained from fluorecent image analysis
+- Extensive data analysis with statistical testing and visualisation
+- Clear communication of advanced scietific techniques to many demographics.
 
 ### MSc Molecular Medicine
--
+### BSc (Hons) Bioscience
 
  
