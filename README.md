@@ -3,7 +3,7 @@
 
 ### Education
 ## PhD Biomolecular Science
--data analysis etc
+- data analysis etc
 
 ### Projects
 FishPi
