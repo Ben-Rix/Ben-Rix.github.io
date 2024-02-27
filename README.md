@@ -4,8 +4,8 @@ A seasoned professional with a comprehensive background in data analysis, I brin
 ## Projects
 
 ### FishPi
-FishPi: a bioinformatic prediction tool to link piRNA and transposable elements in zebrafish (Currently in Review)
-- Collaborated with the University of East Anglia to produce a python based tool published (in review) in methods in ecology and evolution
+Title to be announced
+- Collaborated with the University of East Anglia to produce a published python based tool 
 - The user enter a search term (DNA sequence) and the code returns best matchs from a reference database and returns a list of possible matches whilst plotting these into categories as a visual representation.
 ![image](https://github.com/Ben-Rix/Ben-Rix.github.io/assets/150383184/59297007-0116-455b-85fe-2b294487852a)
 
