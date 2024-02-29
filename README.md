@@ -10,7 +10,8 @@ Title to be announced
 ![image](https://github.com/Ben-Rix/Ben-Rix.github.io/assets/150383184/59297007-0116-455b-85fe-2b294487852a)
 
 ### Codecademy Projects
-![image](https://raw.githubusercontent.com/Ben-Rix/Ben-Rix.github.io/blob/main/images/airline/Banner.png)
+![image](https://raw.githubusercontent.com/Ben-Rix/Ben-Rix.github.io/main/images/airline/Banner.png)
+
 
 
 
