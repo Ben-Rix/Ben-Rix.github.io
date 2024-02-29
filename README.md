@@ -10,12 +10,7 @@ Title to be announced
 ![image](https://github.com/Ben-Rix/Ben-Rix.github.io/assets/150383184/59297007-0116-455b-85fe-2b294487852a)
 
 ### Codecademy Projects
-Life Expectancy and GDP Analysis in Several Countries
-<p float="left">
-  <img src="https://github.com/Ben-Rix/Ben-Rix.github.io/blob/main/images/boxplot%20over%20time.png" width="100" />
-  <img src="https://github.com/Ben-Rix/Ben-Rix.github.io/blob/main/images/scatterplot%20of%20all.png" width="100" /> 
-  <img src="https://github.com/Ben-Rix/Ben-Rix.github.io/blob/main/images/life%20expectancy%20vs%20gdp.png" width="100" />
-</p>
+![image](https://github.com/Ben-Rix/Ben-Rix.github.io/blob/main/images/airline/Banner.png)
 
 
 ## Education
