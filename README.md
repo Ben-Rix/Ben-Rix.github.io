@@ -23,13 +23,12 @@ Title to be announced
 - Obtained extensive python and SQL language skills
 - Enhanced understanding and abilities as a data scientist
 
-
 ### PhD Biomolecular Science
 - Generation of large datasets obtained from fluorescent image analysis
 - Extensive data analysis with statistical testing and visualisation
 - Clear communication of advanced scietific techniques to many demographics.
 
-### MSc Molecular Medicine
-### BSc (Hons) Bioscience
+### MSc Molecular Medicine: Distinction
+### BSc (Hons) Bioscience: First Class
 
  
