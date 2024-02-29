@@ -20,7 +20,7 @@ Title to be announced (In Review)
 ## Education
 
 ### Codecademy Data Scientist: Analytics
-- Obtained extensive python and SQL language skills
+- Expanded python and SQL language skills
 - Enhanced understanding and abilities as a data scientist
 
 ### PhD Biomolecular Science
