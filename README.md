@@ -11,7 +11,7 @@ Title to be announced (In Review)
 
 ### Codecademy Projects
 ![image](https://raw.githubusercontent.com/Ben-Rix/Ben-Rix.github.io/main/images/airline/Banner.png)
-![image](https://raw.githubusercontent.com/Ben-Rix/Ben-Rix.github.io/main/images/airline/Comp4.png)
+![image](https://raw.githubusercontent.com/Ben-Rix/Ben-Rix.github.io/main/images/airline/Comp5.png)
 
 
 
