@@ -1,6 +1,3 @@
 title: Benjamin Rix Portfolio
 logo: /images/Logo_profile.jpg
 theme: jekyll-theme-minimal
-body {
-  width: 100%;
-}
