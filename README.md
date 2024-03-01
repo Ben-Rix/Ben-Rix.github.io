@@ -11,21 +11,13 @@ Title to be announced (In Review)
 
 
 ### PhD Data Analysis
-Insert banner
+![image](https://raw.githubusercontent.com/Ben-Rix/Ben-Rix.github.io/main/images/jamming/banner.png)
+Designed and implemented automated image analysis techniques for the collection of large datasets. This data was cleaned and used for analysis to draw insightful conclusions.
 ![image](https://raw.githubusercontent.com/Ben-Rix/Ben-Rix.github.io/main/images/jamming/comp.png)
 
 
-
-
-
-
-
 ### Codecademy Projects
-![image](https://raw.githubusercontent.com/Ben-Rix/Ben-Rix.github.io/main/images/airline/Banner.png)
-![image](https://raw.githubusercontent.com/Ben-Rix/Ben-Rix.github.io/main/images/airline/comp5.png)
-
-
-
+Many Codeacademy projects have been completed involving extensive use of python to clean, explore, manipulate, visualise and draw conclusions form many types of data.
 
 
 ## Education
