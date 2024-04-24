@@ -3,6 +3,9 @@ A seasoned professional with a comprehensive background in data analysis, I brin
 
 ## Projects
 
+### Codecademy Projects
+
+
 ### FishPi
 Title to be announced (In Review)
 - Collaborated with the University of East Anglia to produce a published python based tool 
@@ -18,10 +21,6 @@ Designed and implemented automated image analysis techniques for the collection 
 ![image](https://raw.githubusercontent.com/Ben-Rix/Ben-Rix.github.io/main/images/junction/banner.png)
 Cell to cell junctions where analysed to determine the structure and architecture under specific conditions.
 ![image](https://raw.githubusercontent.com/Ben-Rix/Ben-Rix.github.io/main/images/junction/comp.png)
-
-
-### Codecademy Projects
-Many Codeacademy projects have been completed involving extensive use of python and SQL to clean, explore, manipulate, visualise and draw conclusions form many types of data.
 
 
 ## Education
