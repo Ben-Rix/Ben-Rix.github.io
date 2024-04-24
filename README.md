@@ -4,7 +4,7 @@ A seasoned professional with a comprehensive background in data analysis, I brin
 ## Projects
 
 ### Codecademy Projects
-![image](https://github.com/Ben-Rix/Ben-Rix.github.io/blob/main/images/github/Dashboard%201.png))
+![image](https://github.com/Ben-Rix/Ben-Rix.github.io/blob/main/images/github/Dashboard%201.png)
 
 ### FishPi
 Title to be announced (In Review)
